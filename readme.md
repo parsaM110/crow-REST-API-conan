@@ -1,5 +1,8 @@
 # running it by simply running this in project root
 
+make sure to install conan before ...
+I use choco for installing it ...
+
 ```sh
 make 
 ```
